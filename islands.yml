@@ -1,0 +1,8 @@
+---
+islands:
+  oneblock-EXTERMINATOR950:
+    friends: EXTERMINATOR950
+    lock: false
+    lockpvp: false
+    spawn: 256 66 256 oneblock-EXTERMINATOR950
+...
